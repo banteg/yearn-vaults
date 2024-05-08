@@ -1,0 +1,7 @@
+foundry:
+  host: auto
+
+geth:
+  base:
+    sepolia:
+      uri: ${BASE_SEPOLIA_RPC}
